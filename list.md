@@ -2,13 +2,7 @@ Table of contents
 =================
 
 - [Terminal customization & productivity](#terminal-customization--productivity)
-    + [General](#general)
-    + [Pwsh](#pwsh)
-    + [Zsh](#zsh)
 - [Kubernetes](#kubernetes)
-    + [General](#general-1)
-    + [CI/CD](#cicd)
-    + [Security](#security)
 - [Azure](#azure)
 - [Misc](#misc)
 
