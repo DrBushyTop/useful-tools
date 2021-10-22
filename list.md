@@ -1,6 +1,17 @@
-# Command line customization
+# Terminal customization
+
+## General
+- [nnn](https://github.com/jarun/nnn) - File manager, just look at the quickstart and be amazed
+- [fasd](https://github.com/clvv/fasd) - File navigation productivity booster
+- [autojump](https://github.com/wting/autojump) - similar to fasd. Not sure which one I prefer yet.
+- [fzf](https://github.com/junegunn/fzf) - Fuzzy finder, more navigation
 
 ## Pwsh
+- [Oh-my-posh](https://ohmyposh.dev/) - I've found that the non-golang version works better than 3.0
+
+## Zsh
+- [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) - Makes zsh incredible
+- [Powerlevel 10k](https://github.com/romkatv/powerlevel10k) - Additional visual flair
 
 # Kubernetes
 
