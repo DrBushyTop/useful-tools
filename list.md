@@ -27,3 +27,9 @@
 - [Rakkess](https://github.com/corneliusweig/rakkess) - Review Access
 - [kubectl-who-can](https://github.com/aquasecurity/kubectl-who-can) - Who can do what in Kubernetes?
 - [kubectl-view-secret](https://github.com/elsesiy/kubectl-view-secret) - simplify viewing secret contents
+
+# Azure
+- WIP
+
+# Misc
+- [Slidev](https://github.com/slidevjs/slidev) - Markdown based presentation tool for developers
